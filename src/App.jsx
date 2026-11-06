@@ -393,7 +393,7 @@ export default function App() {
           {/* Logo & Region Identity */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-emerald-500 to-teal-400 flex items-center justify-center shadow-md shadow-emerald-500/20 text-white font-bold text-xl ring-2 ring-emerald-400/30">
-              ద్వ
+              DV
             </div>
             <div>
               <div className="flex items-center gap-2">
